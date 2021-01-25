@@ -33,3 +33,5 @@ __meta__ = {
 }
 
 [node name="ResourcePreloader" type="ResourcePreloader" parent="Button"]
+
+[node name="AnimationTree" type="AnimationTree" parent="Button"]
