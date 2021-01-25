@@ -20,8 +20,6 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="Label"]
-
 [node name="Button" type="Button" parent="."]
 margin_left = 479.141
 margin_top = 250.26
@@ -31,7 +29,3 @@ text = "Press me"
 __meta__ = {
 "_edit_use_anchors_": false
 }
-
-[node name="ResourcePreloader" type="ResourcePreloader" parent="Button"]
-
-[node name="AnimationTree" type="AnimationTree" parent="Button"]
